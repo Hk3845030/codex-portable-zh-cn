@@ -1,3 +1,10 @@
+> [!WARNING]
+> **本仓库仅为 SkillHub 技能索引绑定仓，不含可运行代码。**
+>
+> 完整安装包、脚本与文档请在 SkillHub 获取：
+>
+> **https://skillhub.cn/skills/codex-portable-zh-cn**
+
 # 一键 Codex 英文转中文界面
 
 > SkillHub 上架的 SKILL：把英文 AI 编程客户端的 UI 一键换成中文。
