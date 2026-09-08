@@ -30,7 +30,7 @@
 
 ## 上游仓库
 
-源码、字典、patch 模板：https://github.com/<你的用户名>/codex-portable-zh-cn
+源码、字典、patch 模板：https://github.com/Hk3845030/codex-portable-zh-cn
 
 详细使用说明见：https://skillhub.cn/skills/codex-portable-zh-cn
 
